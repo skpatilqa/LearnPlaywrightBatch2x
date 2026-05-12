@@ -36,6 +36,8 @@
 
 ## VS Code Shortcuts for Windows
 
+A comprehensive list of VS Code keyboard shortcuts for Windows is available in [`VS_Code_Keyboard_shortcuts_windows.js`](VS_Code_Keyboard_shortcuts_windows.js).
+
 | Action | Shortcut |
 |--------|----------|
 | Multi-line editing (multiple cursors) | `Ctrl + Alt + ↑ / ↓` |
